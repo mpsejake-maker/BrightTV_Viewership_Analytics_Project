@@ -1,4 +1,6 @@
 # BrightTV_Viewership_Analytics_Project
 
-The catalog organizes data related to the Bright TV platform. It includes schemas for datasets, a default schema which is auto-created for basic operations, and an information schema that provides metadata about other schemas and their contents. This catalog is suitable for managing and analyzing various data resources associated with Bright TV.
+Project Overview
+This project analyzes user profile and session-level viewership data from BrightTV, a subscription-based streaming platform, to uncover trends and behavioral drivers behind content consumption. Using SQL (Databricks/PySpark) for data transformation and querying, alongside visualization tools for reporting, the project translates raw transactional data into actionable business insights for BrightTV's Customer Value Management (CVM) team.
+The analysis covers user engagement patterns, time-based consumption trends, content/channel performance, and demographic influences on viewing behavior — culminating in data-backed recommendations to grow and retain BrightTV's subscriber base.
 
