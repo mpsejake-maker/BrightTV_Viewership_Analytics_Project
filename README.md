@@ -1,26 +1,50 @@
 # BrightTV_Viewership_Analytics_Project
 
 **Project Overview**
+
 This project analyzes user profile and session-level viewership data from BrightTV, a subscription-based streaming platform, to uncover trends and behavioral drivers behind content consumption. Using SQL (Databricks/PySpark) for data transformation and querying, alongside visualization tools for reporting, the project translates raw transactional data into actionable business insights for BrightTV's Customer Value Management (CVM) team.
 The analysis covers user engagement patterns, time-based consumption trends, content/channel performance, and demographic influences on viewing behavior — culminating in data-backed recommendations to grow and retain BrightTV's subscriber base.
 
 **Purpose**
-BrightTV's CEO has set a strategic objective to grow the platform's subscription base this financial year. To achieve this, the CVM team needs a clear, evidence-based understanding of how subscribers currently engage with the platform — including:
-**Who** is watching (user demographics and segments)
-**What** they are watching (channels, genres, content types)
-**When** they are watching (time of day, day of week, peak vs. low periods)
-**Why** consumption varies (factors such as package type, device, tenure, region)
+
+## Purpose
+
+BrightTV's CEO has set a strategic objective to grow the platform's subscription base this financial year.  
+
+To achieve this, the CVM team needs a clear, evidence-based understanding of how subscribers currently engage with the platform — including:
+
+- **Who is watching**
+  - User demographics  
+  - Customer segments  
+
+- **What they are watching**
+  - Channels  
+  - Genres  
+  - Content types  
+
+- **When they are watching**
+  - Time of day  
+  - Day of week  
+  - Peak vs. low periods  
+
+- **Why consumption varies**
+  - Package type  
+  - Device used  
+  - Customer tenure  
+  - Region  
 
 This project exists to close that knowledge gap by building a repeatable analytics pipeline that answers these questions and surfaces opportunities for content optimization, scheduling improvements, and subscriber growth initiatives.
 
 **Objectives**
+
 Identify usage trends and patterns across time, channels, and content categories
 Determine key factors influencing viewership and engagement
 Recommend content strategies to boost consumption on low-performing days
 Propose initiatives to support subscriber base growth
 Present findings in a clear, business-ready 20-minute presentation for leadership
 
-Tech Stack
+**Tech Stack**
+
 | Component        | Tool                                     |
 |------------------|------------------------------------------|
 | Data Processing  | Databricks (PySpark, Spark SQL)          |
