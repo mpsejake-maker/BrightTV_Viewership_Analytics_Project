@@ -52,7 +52,7 @@ Present findings in a clear, business-ready 20-minute presentation for leadershi
 | Miro        | Project planning, workflow mapping, brainstorming insights/recommendations |
 | Excel       | Supplementary data exploration, quick calculations, ad hoc validation   |
 | PowerPoint  | Final 20-minute insights presentation for leadership                    |
-``
+
 
 **Dataset**
 
