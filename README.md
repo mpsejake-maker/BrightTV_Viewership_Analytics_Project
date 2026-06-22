@@ -54,5 +54,5 @@ Present findings in a clear, business-ready 20-minute presentation for leadershi
 | Time Handling    | UTC to SAST conversion                   |
 
 **Dataset**
-**User profiles:** subscriber demographics, package type, signup date, region
-**Viewing sessions:** one record per session, including channel, genre, content title, start/end timestamps (UTC), device type
+--**User profiles:** subscriber demographics, package type, signup date, region
+--**Viewing sessions:** one record per session, including channel, genre, content title, start/end timestamps (UTC), device type
