@@ -37,11 +37,11 @@ This project exists to close that knowledge gap by building a repeatable analyti
 
 **Objectives**
 
-Identify usage trends and patterns across time, channels, and content categories
-Determine key factors influencing viewership and engagement
-Recommend content strategies to boost consumption on low-performing days
-Propose initiatives to support subscriber base growth
-Present findings in a clear, business-ready 20-minute presentation for leadership
+- Identify usage trends and patterns across time, channels, and content categories.
+- Determine key factors influencing viewership and engagement
+- Recommend content strategies to boost consumption on low-performing days
+- Propose initiatives to support subscriber base growth
+- Present findings in a clear, business-ready 20-minute presentation for leadership
 
 ## Tools Used
 
