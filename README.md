@@ -43,15 +43,16 @@ Recommend content strategies to boost consumption on low-performing days
 Propose initiatives to support subscriber base growth
 Present findings in a clear, business-ready 20-minute presentation for leadership
 
-**Tech Stack**
+## Tools Used
 
-| Component        | Tool                                     |
-|------------------|------------------------------------------|
-| Data Processing  | Databricks (PySpark, Spark SQL)          |
-| Data Storage     | Unity Catalog                            |
-| Querying         | SQL                                      |
-| Visualization    | Databricks Lakeview / Power BI           |
-| Time Handling    | UTC to SAST conversion                   |
+| Tool        | Purpose                                                                 |
+|-------------|-------------------------------------------------------------------------|
+| Databricks  | Data processing, PySpark/Spark SQL querying, Unity Catalog, dashboards (Lakeview) |
+| GitHub      | Version control and project documentation/hosting                       |
+| Miro        | Project planning, workflow mapping, brainstorming insights/recommendations |
+| Excel       | Supplementary data exploration, quick calculations, ad hoc validation   |
+| PowerPoint  | Final 20-minute insights presentation for leadership                    |
+``
 
 **Dataset**
 
