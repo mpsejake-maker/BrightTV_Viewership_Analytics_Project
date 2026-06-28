@@ -59,14 +59,15 @@ This project exists to close that knowledge gap by building a repeatable analyti
 
 ## Tools Used
 
-| Tool        | Purpose                                                                 |
-|-------------|-------------------------------------------------------------------------|
-| Databricks  | Data processing, PySpark/Spark SQL querying, Unity Catalog, dashboards (Lakeview) |
-| GitHub      | Version control and project documentation/hosting                       |
-| Miro        | Project planning, workflow mapping, brainstorming insights/recommendations |
-| Excel       | Supplementary data exploration, quick calculations, ad hoc validation   |
-| PowerPoint  | Final 20-minute insights presentation for leadership                    |
-
+| Tool        | Purpose |
+|------------|--------|
+| Databricks | Data processing, PySpark/Spark SQL querying, Unity Catalog, dashboards (Lakeview) |
+| GitHub     | Version control and project documentation/hosting |
+| Miro       | Project planning, workflow mapping, brainstorming insights/recommendations |
+| Excel      | Supplementary data exploration, quick calculations, ad hoc validation |
+| PowerPoint | Final 20-minute insights presentation for leadership |
+| Lovable    | Rapid prototyping and building user-facing applications/demos for showcasing project outcomes |
+| Gantt Chart| Project timeline planning, task tracking, milestone management, and ensuring delivery alignment |
 
 **Dataset**
 
